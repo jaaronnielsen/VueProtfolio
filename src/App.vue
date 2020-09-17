@@ -178,7 +178,7 @@
             GoLang:
         </div>
         <div class="col">
-            Take the API made in C# and remake it in python
+            Take the API made in C# and remake it in GoLang.
         </div>
         <div class="col">
             Take me 7 hours to Learn.
