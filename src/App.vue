@@ -1,6 +1,9 @@
 <template>
   <div id="app">
    <h1>Jaaron Nielsen's Portfolio</h1>
+   <a href="https://www.linkedin.com/in/jaaron-nielsen-a9513412a/">Visit my LinkedIn</a>
+<br/>
+<div>Email me at nielsenjaaron@gmail.com</div>
     <img alt="Resume" src="./assets/resume.png">
     <h3>Have Skills</h3>
 <br />
